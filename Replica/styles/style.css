@@ -1,7 +1,3 @@
-.logo {
-    
-}
-
 .pesquisa {
     text-align: right;
 }
@@ -18,4 +14,32 @@
     margin-bottom: 15px;
     border-bottom: 1px solid #989898;
     padding-bottom: 2px;
+}
+
+.albunsnovos {
+    display: flex;
+}
+
+.rodape {
+    color: #484848;
+    clear: both;
+    background: #787878;
+    width: 100%;
+    height: 135px;
+    padding: 0 0 75px;
+}
+
+.rodacolu {
+    float: left;
+    line-height: 1.5;
+    padding-right: 30px;
+    margin: 0 30px 20px 0;
+}
+
+.rodape p {
+    clear: left
+}
+
+.rodacolu div {
+    color: white;
 }
